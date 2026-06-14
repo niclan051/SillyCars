@@ -1,6 +1,254 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build_mod.yml"
+hash = "72d1f69706e268e5e07c8e39ccee84396941da50fe00965992d532e6175dce15"
+
+[[files]]
+file = ".github/workflows/build_pack.yml"
+hash = "a307368467a0435b61bc6b7cda5ed68781b4912087868beda9e7d99ac18f7dfb"
+
+[[files]]
+file = "CHANGELOG.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "LICENSE"
+hash = "5eecce16e59e24ddd9d3712012517a033f2cd0459ace22b43d5659d4624abff0"
+
+[[files]]
+file = "README.md"
+hash = "58e6c10ae882af4d579de5f2a5c939fcf8940f187ad833d294250863e0fccc75"
+
+[[files]]
+file = "build.sh"
+hash = "238fa0cf9bcb716f72a91d1255ecb7845949c55a0c97fa905d8ad7941f99720b"
+
+[[files]]
+file = "mod/.editorconfig"
+hash = "61cea0421f39071e88ae11b60e85449c6bd21a790b2f7f17c7e0d0a62c70bfd7"
+
+[[files]]
+file = "mod/HEADER"
+hash = "443dba27947d17b82c83e8361f394e52efb8f71260ee67b92c820560cf4b76c8"
+
+[[files]]
+file = "mod/build.gradle.kts"
+hash = "d80b8613e5f325e14df9555537fc1ee18f5e110ddb2bbbd15475ac2f32a843e6"
+
+[[files]]
+file = "mod/gradle.properties"
+hash = "b5472c93f73321f3b29609dbee0cbe0f8194c5f938bbae9a4aaca6b469b5dd6c"
+
+[[files]]
+file = "mod/gradle/libs.versions.toml"
+hash = "85d999770e6e4c99cbe9cd24e9aeb1994e1f1b94c62774b5df44a94cc939faf9"
+
+[[files]]
+file = "mod/gradle/wrapper/gradle-wrapper.jar"
+hash = "2db75c40782f5e8ba1fc278a5574bab070adccb2d21ca5a6e5ed840888448046"
+
+[[files]]
+file = "mod/gradle/wrapper/gradle-wrapper.properties"
+hash = "a180163249c7252412ddaee1c7adcf59f6494b1183136f690fbd9a3b8aaed00e"
+
+[[files]]
+file = "mod/gradlew"
+hash = "ab935d9911feeab8175a15cb37cd3ceabb1511c611637a2c397d220eebca928e"
+
+[[files]]
+file = "mod/gradlew.bat"
+hash = "18774a0ac0203f6893bf1db3291a0d77f06cd1b4dca2a43b51e7009da3e28cfa"
+
+[[files]]
+file = "mod/settings.gradle.kts"
+hash = "47200a64376f8e58e5263f8ff008e3c5ba4f55543a7d126573d71b5f2f31f87c"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/CuteCarsClient.java"
+hash = "463aec5870892fdbea3d0b8463dcdf318b4659dcd0d9f04d37858f9623b2611f"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/config/CuteCarsClientConfig.java"
+hash = "9b14ae1fc7969d1d1245cb2634416a4b8252fe163e878f4491c06acb88737794"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/config/ModMenuIntegration.java"
+hash = "97193375882a36a3b0ca40d6ddcef3df597c24fb27682eefc5a8e5612d2d75ed"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/config/package-info.java"
+hash = "4f6ea06c9e0faab8b3634c897d5722c6abe958a86b64e361f2ae60cb59bbdf9f"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/CuteCarsDataGenerator.java"
+hash = "996fa526655d162582acc0cb6cdabeb925e6d4e67b6e1842b44b3f3da08e23cf"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/assets/CuteCarsModelProvider.java"
+hash = "c2741c1373038d4b1b940aab7df79506bbcde55581a3ba63b4f6e3d8463803f0"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/assets/package-info.java"
+hash = "e082b5458f14f0fb17edc1cc4e9ebea0711717a16150f5755821cf1d1613dea5"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/data/CuteCarsBlockLootTableProvider.java"
+hash = "e1d2fbda39c2f03414be2d86e35a46091ffa934582658e830029d60c15c5a2ac"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/data/CuteCarsRecipeProvider.java"
+hash = "41d57c96dca11f13ac62b68a7402b7e1b67c2933c40064a825184a2e1811ac24"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/data/package-info.java"
+hash = "a5a6d57072f400e240611b92da27c3fa316378a680b585809a7d23b87049be0c"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/data/tags/CuteCarsBlockTagProvider.java"
+hash = "d48bd851c0ae590f5a94bc8abdef815be04a2fd4b5c41d1199cd1feab39c0c3a"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/data/tags/CuteCarsItemTagProvider.java"
+hash = "2cfa1759584c28334271475cefca1d0d2ae2f4b04c9e0c554d30f32b487dd70f"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/data/tags/package-info.java"
+hash = "ed0f244dce0dc137ad53f0b41275c14e9121236e908d4e2cadb0e6d48bcc6e95"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/datagen/package-info.java"
+hash = "f2d6d9aad1bd2a37d052474324eb044be6941f69af0a3483bc15c4ebf4e190f0"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/mixins/FontMixin.java"
+hash = "3d90ed51d5ce925fcec1e464d3a75cbe1de875377c2ecac7b201f373392ebd39"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/mixins/GuiTextRenderStateMixin.java"
+hash = "a0464e264b23a24a7d9bf0e55c7938cb8a8dd19047dd8d42a766c80d4312def3"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/mixins/MixinMinecraft.java"
+hash = "a9ef36529d9779b42043afa01a9e129e77d4b40a1f81f033db1d04544b450bc4"
+
+[[files]]
+file = "mod/src/client/java/io/github/cutecarsmc/client/package-info.java"
+hash = "d1d72523c3c87a119e7954bb7ed45f5c91c072e0cc0db228eb226646ba1bc5b1"
+
+[[files]]
+file = "mod/src/client/resources/assets/LICENSE"
+hash = "487abeb80b6d910d33fac7e1797aefab5dee94290538dc0e39a45f87ed185a58"
+
+[[files]]
+file = "mod/src/client/resources/assets/cutecars/icon.png"
+hash = "406d36685358741bd4dc83f62b20bf4435e75ce049e93bd7ed00dcf58c52a451"
+
+[[files]]
+file = "mod/src/client/resources/assets/cutecars/items/blocking_upgrade.json"
+hash = "057814797cfbc2a240f8cda88030cc3d26668ce20e2fa00df91cd8250c090109"
+
+[[files]]
+file = "mod/src/client/resources/assets/cutecars/lang/en_us.json"
+hash = "542c6d514f24c442ac17e9d6a6d47e5bab178afd00399c5739cee9c3f6d3d71b"
+
+[[files]]
+file = "mod/src/client/resources/assets/cutecars/models/item/blocking_upgrade.json"
+hash = "d26a33dcf9901c91bd3dbd61d9d9322639110517ce63638110661becf4e2eae9"
+
+[[files]]
+file = "mod/src/client/resources/assets/cutecars/textures/gui/sprites/container/slot/block.png"
+hash = "433d825de1090014043f8d6694631d0581c2b82a8a2c8145ceb68b28ebdf5210"
+
+[[files]]
+file = "mod/src/client/resources/assets/cutecars/textures/item/blocking_upgrade.png"
+hash = "d396738b52c02f322a458b9e1f9d20cf37c67ea0fd6287336252bce10005fce1"
+
+[[files]]
+file = "mod/src/client/resources/cutecars-client.mixins.json"
+hash = "0119d9d2fe3163a74f47ea49bb8b3408812059e3ca6236745aac23310bd84e33"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/CuteCars.java"
+hash = "ae223a96121d44b32ad661ff0428da2e65649f3eb940dc551320cae399a7a44b"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/CuteCarsMain.java"
+hash = "ec107ac91a0319b157bc797a5727f6c431a243dd02dc022fe36f177b4fd666c8"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/config/CuteCarsServerConfig.java"
+hash = "ffb9f46720df02e6f9833eaf5fee0e92234ba2e39710470f737dc953fe2aad4f"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/config/package-info.java"
+hash = "e37d49bfa1b6cf21511376fc4f190eeeec87cdbfc0d0dad3cdf4abbc825c1868"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/content/CuteCarsEvents.java"
+hash = "a2db103bd3ff9cf8ba5dc6ff84c316ff16948c0b6aff1eb3fed299a110fb76bb"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/content/blocks/CuteCarsBlocks.java"
+hash = "a428d843fce74f632f7b0b02525cf574fba7067b79f928d17a8b3ee8dd94f35b"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/content/items/CuteCarsItems.java"
+hash = "7ea65714cf1af40d3af314967d4c848a857d54d3635cf3a8d51dbaabb77d7b3c"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/mixins/PlayerMixin.java"
+hash = "6151427ba94be37d7f74b14b089483a053b4f0d8b825cbf135c221c17ae4e687"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/package-info.java"
+hash = "c42042a6c4f708d3f23324781901ade0808ef01a0e0241f7057f01b022eb6007"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/utils/uwuify/UwuifiedCharSequence.java"
+hash = "723206e98d121bded51fafa6280962b5d4dff259d2f93c97c518b7a35ac90340"
+
+[[files]]
+file = "mod/src/main/java/io/github/cutecarsmc/utils/uwuify/Uwuifier.java"
+hash = "00b09e0715df0b99d2c59eb196b891e49d64b5dc514aac25119bca37f3de4a30"
+
+[[files]]
+file = "mod/src/main/resources/cutecars.mixins.json"
+hash = "64399537dc51a2b1af52248079367e8fa64cc985f46a1a6c873fc51746f4eab4"
+
+[[files]]
+file = "mod/src/main/resources/data/cutecars/recipe/parry_upgrade/copper_sword.json"
+hash = "fec330914f72536efbf2726fdc367477e5351fbf9b1852e20b32f402229eadf4"
+
+[[files]]
+file = "mod/src/main/resources/data/cutecars/recipe/parry_upgrade/diamond_sword.json"
+hash = "eca8e3f3af810676476b416633257b4c454dc2f70a7d3960303161192f8115b4"
+
+[[files]]
+file = "mod/src/main/resources/data/cutecars/recipe/parry_upgrade/golden_sword.json"
+hash = "bb553b55248454062d737ab9dc27ca8414f01bb0f5dbf4c78a0957e3212259b4"
+
+[[files]]
+file = "mod/src/main/resources/data/cutecars/recipe/parry_upgrade/iron_sword.json"
+hash = "c0786e02c23ba47ef158105c6e2a3708f63606999f85d0d7a2ac592cc284e852"
+
+[[files]]
+file = "mod/src/main/resources/data/cutecars/recipe/parry_upgrade/netherite_sword.json"
+hash = "6177502f2a3bc6ffa86898aaa0876a1f86c4313e6c9da7ce2f12ca09f243abc0"
+
+[[files]]
+file = "mod/src/main/resources/data/cutecars/recipe/parry_upgrade/stone_sword.json"
+hash = "794aee5a608edaa96ceae32636cd2d53987c46347c0a3e9fbd7cf22741c9fdba"
+
+[[files]]
+file = "mod/src/main/resources/data/cutecars/recipe/parry_upgrade/wooden_sword.json"
+hash = "a29c7c69d1d538d4657f77303821cebf9d21d7a6ac31b9ef0ff00d674fdd97ac"
+
+[[files]]
+file = "mod/src/main/resources/fabric.mod.json"
+hash = "187ffaff74dee53a206d17ea29a3133730f843c2f42325872b16bbf2d35b43d0"
+
+[[files]]
 file = "mods/clifftree.pw.toml"
 hash = "657c7da5836f8f8fede176445fcbc198e9783826e0981e7ff77ce7ca263fb191"
 metafile = true
@@ -11,11 +259,31 @@ hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "c2f5b9d0c1d636cc08f302f16558a620be6c1b838642f2e6048e09f43a0d012e"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "18c91b0d854cd871d9939abe95a55266c436a7e5d92e1bd19274b33edc46382e"
+metafile = true
+
+[[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "9ef5ec634746bff43d5914ee240c2e790aca678e76db8198121abe906dda7509"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "9319c3c28fcf1d824c7ac999851cdbcf3be9e9a1fe289e854cbebc15dc63b899"
+metafile = true
+
+[[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "cf2137c92590de195ed31fe5d69d30207035644ee1d9d6a2edc444a8e5a16f89"
 metafile = true

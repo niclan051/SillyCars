@@ -1,0 +1,13 @@
+name = "The Roads More Travelled [TRMT]"
+filename = "trmt-0.5.1-26.1.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/74oZhrEe/versions/upQW20Wx/trmt-0.5.1-26.1.x-fabric.jar"
+hash-format = "sha512"
+hash = "8c1a28c37207bd5f7d6ff4cec18df8930fd97fbc7c6cd2766e88da5dab0e631060b480688406e617481fd34bd1a7746f49fbe49cffa24d3f6518741ffd436abd"
+
+[update]
+[update.modrinth]
+mod-id = "74oZhrEe"
+version = "upQW20Wx"
