@@ -1,0 +1,13 @@
+name = "Harder eye of ender"
+filename = "harder-eye-of-ender-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/liO95YfT/versions/hgDHf4mA/harder-eye-of-ender-1.5.jar"
+hash-format = "sha512"
+hash = "b3d0522d4ae8603c8774064c5c3d262731ad91965b82d21d6013aad056b91d7aa834046d361babc647707afbe96a4e32ab5c64d5aa114fce818206ebce75460a"
+
+[update]
+[update.modrinth]
+mod-id = "liO95YfT"
+version = "hgDHf4mA"

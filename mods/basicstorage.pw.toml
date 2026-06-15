@@ -1,0 +1,13 @@
+name = "Basic Storage"
+filename = "basicstorage-2.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NMOanmPo/versions/JodO2jco/basicstorage-2.4.3.jar"
+hash-format = "sha512"
+hash = "f2c395c4562d2ef4a6e02dfc984c01d57ebe554de489b851ebe12e0e1abaeef7fed2812eb9f927229a332fe44d6150ebfbaa504899a43c4d2742370e75d95069"
+
+[update]
+[update.modrinth]
+mod-id = "NMOanmPo"
+version = "JodO2jco"

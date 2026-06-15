@@ -1,0 +1,13 @@
+name = "RSRequestify: Reforged"
+filename = "rsrreforged-fabric-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qJRiZRfT/versions/fY0P7jMH/rsrreforged-fabric-26.1.2-1.0.3.jar"
+hash-format = "sha512"
+hash = "d1c50577ed2b86e4c50b25968c934bd477bfb23577e45c006ab9d968f66b04fd5c6a17ec554a55a968ef9cc6ae52b60af1bb65ed6e948badc000f1936492d6bd"
+
+[update]
+[update.modrinth]
+mod-id = "qJRiZRfT"
+version = "fY0P7jMH"

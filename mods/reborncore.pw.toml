@@ -1,0 +1,13 @@
+name = "Reborn Core"
+filename = "RebornCore-6.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3NCrJdj3/versions/mO9KoONc/RebornCore-6.0.5.jar"
+hash-format = "sha512"
+hash = "3395ab7f73bfef68fdcaf0e45fce17c5f107ad5824020358fe058260569a900911c0c05acf458e0a35d4f12b2aaf7299fff90bf63633e0434ad2c56b48b61b23"
+
+[update]
+[update.modrinth]
+mod-id = "3NCrJdj3"
+version = "mO9KoONc"

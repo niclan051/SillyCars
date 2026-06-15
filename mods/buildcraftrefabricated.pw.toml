@@ -1,0 +1,13 @@
+name = "BuildCraft Refabricated"
+filename = "BCRefabricated-26.1.2-beta-2-upstream2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fBXt3AlC/versions/Q7xORbe3/BCRefabricated-26.1.2-beta-2-upstream2.jar"
+hash-format = "sha512"
+hash = "fb13d8df9ff78de115547d0cdae78f6b21709e25ab6c4860a5809ba15d592e38e1ef55aa2d27d181f53085bc413fcb3ba73e37a3a66c9218ec37cf4c07f18c41"
+
+[update]
+[update.modrinth]
+mod-id = "fBXt3AlC"
+version = "Q7xORbe3"

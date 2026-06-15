@@ -249,8 +249,58 @@ file = "mod/src/main/resources/fabric.mod.json"
 hash = "187ffaff74dee53a206d17ea29a3133730f843c2f42325872b16bbf2d35b43d0"
 
 [[files]]
+file = "mods/armored-foes.pw.toml"
+hash = "501754bd9cd05c1c21f85c3e3a72f8d0e4413b99467073644767cde0cb77bf18"
+metafile = true
+
+[[files]]
+file = "mods/basicstorage.pw.toml"
+hash = "bfd4b6faa1125db9e9e16a8ebc525e6749d8aaabaafe22d09a147a66f77c6fd9"
+metafile = true
+
+[[files]]
+file = "mods/breakerplacer.pw.toml"
+hash = "81cc378601409e08a9bab16aa2872b5a56f26b785ab2d0d1603a6daa9f79541d"
+metafile = true
+
+[[files]]
+file = "mods/buildcraftrefabricated.pw.toml"
+hash = "150e4791cbc356696089d84339c91d0bacc4ddf385fa4bbf001639adb141ca4c"
+metafile = true
+
+[[files]]
+file = "mods/cats-dont-care.pw.toml"
+hash = "dd7ed20fb67415a3a96528f5fa733f8f0cfdf25d499c9a8246a2e6d4970825e0"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "3de77ea229966fda6b048a8781c5ffa3d37d0e4220e7d6640b6a5eb9f3eec6a7"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "181b795f314ec32dc270381bc022813e46e5ec7372faa582d5d81ce00334097d"
+metafile = true
+
+[[files]]
 file = "mods/clifftree.pw.toml"
 hash = "657c7da5836f8f8fede176445fcbc198e9783826e0981e7ff77ce7ca263fb191"
+metafile = true
+
+[[files]]
+file = "mods/echo-chest.pw.toml"
+hash = "aac0aeb2defbc4d747a1b6254174b736163a8742618935a32cf70b1ae6d01a74"
+metafile = true
+
+[[files]]
+file = "mods/energized-power-fd.pw.toml"
+hash = "acbabf143d1a81ab1660a5e8f971104584235ee7857802865608b03eae016755"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "5850e31164194700a42ac0e179e6239f5410288a124fb9dd56a2fdb347fecb4f"
 metafile = true
 
 [[files]]
@@ -259,8 +309,38 @@ hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
 metafile = true
 
 [[files]]
+file = "mods/fantastic-wings.pw.toml"
+hash = "503961e5c8a1171685ee6fdcf897bc8e6cc92ba00b5b00478d1744e2e62c6478"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "557d564bb3154f36d3e0f389d2435696e5d618ed9b4aee51ec843db636e11671"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
+metafile = true
+
+[[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "3f0a597ff65909af767182e319cd0450a32bb789b667b1fbb634ea58376010b9"
+metafile = true
+
+[[files]]
+file = "mods/harder-eye-of-ender.pw.toml"
+hash = "49861c363d5a0ea29d71cd09e574fcdaa5d0ca30ddcff126584a34fe85c0d13a"
+metafile = true
+
+[[files]]
+file = "mods/improved-crystals.pw.toml"
+hash = "be55559a013eab95c1325b38841f6e023c10f36e9d30559c7d7b0036f531383b"
+metafile = true
+
+[[files]]
+file = "mods/jetpacks-techreborn.pw.toml"
+hash = "dc4137de0136e24fa94dbd9898bb88c50d3659a61f6980ee9a7947baca80e724"
 metafile = true
 
 [[files]]
@@ -269,13 +349,63 @@ hash = "c2f5b9d0c1d636cc08f302f16558a620be6c1b838642f2e6048e09f43a0d012e"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
+metafile = true
+
+[[files]]
+file = "mods/nameless-trinkets.pw.toml"
+hash = "9326ce57d57469fc4cfea4bab77d380a38562d81805410bb54a556e811e9a72a"
+metafile = true
+
+[[files]]
+file = "mods/new-linked-chests.pw.toml"
+hash = "f19321f2865f500ec8e68589c35a432ffbeda42864cee0d221143a8cabf15cd1"
+metafile = true
+
+[[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "edd44e62f3474467eaf7d7083088f56e30d4c3737dde10a89da0817d1ec9d4d0"
+metafile = true
+
+[[files]]
+file = "mods/portable-hole.pw.toml"
+hash = "a366dda22080e23b5661e419ae05c8b27a6f8152422292722c8de95c6f32e271"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "18c91b0d854cd871d9939abe95a55266c436a7e5d92e1bd19274b33edc46382e"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "c81e12b1a6ebc22dcf5090a62ab5161c05cb449566051cd3546576d122621edb"
+metafile = true
+
+[[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "9ef5ec634746bff43d5914ee240c2e790aca678e76db8198121abe906dda7509"
+metafile = true
+
+[[files]]
+file = "mods/rsrreforged.pw.toml"
+hash = "20a39e0da306424ac8fe9b13762f6d7b45e2f780852dde3be5333d68a8eb1879"
+metafile = true
+
+[[files]]
+file = "mods/spiky-spikes.pw.toml"
+hash = "b50b339a73ffa38b2e76d8dfd5605b9fbf157b54350389b5be0e41b26b1a59b3"
+metafile = true
+
+[[files]]
+file = "mods/tech-extensions.pw.toml"
+hash = "e639a809c2697cf27aa89b85f3d80b4766a916d492c2dd635935fd15f0e03a87"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "6c583c39183416e6e5e3472d20af187f5a8c0a31b722cd72092a53c6b8abb969"
 metafile = true
 
 [[files]]
@@ -286,4 +416,24 @@ metafile = true
 [[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
 hash = "cf2137c92590de195ed31fe5d69d30207035644ee1d9d6a2edc444a8e5a16f89"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "bd6ee49f8560398efdc65efffa3ddc5f872ff781a255e5654c294087de48e0e0"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "a7a718ab0bd594faf7afaa94f0d5a0d2f383b6e7be3d8560deed72b2daa6fe8a"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "93d685da7e61bd1bd52ebf8a70a532ae5e3cec875c931d63ac2bf572ac348258"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "67866b7484801e784c42ecd443ebf6a29640fe796feec91c248def2642aec952"
 metafile = true

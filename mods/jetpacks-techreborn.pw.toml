@@ -1,0 +1,13 @@
+name = "TechReborn Jetpacks"
+filename = "jetpacks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1P0vK6mJ/versions/rM3Ksiky/jetpacks-1.0.0.jar"
+hash-format = "sha512"
+hash = "bfc0c0a1b1fe4ed454961b89bb0b5eefcb8d68401ae6c970510b1da837a13cd79004aa3ae8e12c4123cb73135e5f2d5e1271b0a3413f3fd063582deffe824463"
+
+[update]
+[update.modrinth]
+mod-id = "1P0vK6mJ"
+version = "rM3Ksiky"

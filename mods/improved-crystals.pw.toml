@@ -1,0 +1,13 @@
+name = "Improved Crystals"
+filename = "improved-crystals-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MffYVN5I/versions/DWSYJIz0/improved-crystals-1.0.1.jar"
+hash-format = "sha512"
+hash = "dcc4816e00a85d92a43f9dcbe4f0a87ab3c216c2faadea4df55b6af5d733c290cd2ed496bfccf3a54892c9895e3f0af4b784b76e48eed4870a26172c5983caaf"
+
+[update]
+[update.modrinth]
+mod-id = "MffYVN5I"
+version = "DWSYJIz0"
