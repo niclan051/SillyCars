@@ -103,6 +103,11 @@ file = "mods/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rrv.pw.toml"
+hash = "95260879087a49630240cc2e8eb3d4983a80cc09cbd68fb751daf02718cabb9d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
 metafile = true
