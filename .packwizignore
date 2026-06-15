@@ -1,0 +1,7 @@
+/README.md
+*.sh
+.github/
+mod/
+build/
+LICENCE
+CHANGELOG.MD
