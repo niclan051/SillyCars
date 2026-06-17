@@ -1,6 +1,6 @@
 name = "Mod Menu"
 filename = "modmenu-18.0.0-beta.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar"
