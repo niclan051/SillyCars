@@ -1,13 +1,13 @@
 name = "Headpat a Friend!"
-filename = "headpats-1.0.6+26.1.2.jar"
+filename = "headpats-1.0.7+26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vETxChiy/versions/S63Bdr7g/headpats-1.0.6%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/vETxChiy/versions/PLEHRRPS/headpats-1.0.7%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "c119680ebad0f1521f9f0dbafd5ff1f524c2c0f6e51ef1aaefcb42190cde13ad3a2ec1e1a6f898d78c2a6939e28768b4b7d0f3bf82018f6e0ce3f94e6eaef4c8"
+hash = "b3e4915b2a37b746867e0a7d27e6cf87b9e39f9c854e5c84464da1aff4cb009fc08bded7081fee9e334d8e67a7227ebde777b2a7c40a2112293007bfac6d899b"
 
 [update]
 [update.modrinth]
 mod-id = "vETxChiy"
-version = "S63Bdr7g"
+version = "PLEHRRPS"
