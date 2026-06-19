@@ -1,6 +1,6 @@
 name = "Xaero's Minimap"
 filename = "xaerominimap-fabric-26.1.2-26.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/QmIPBKnL/xaerominimap-fabric-26.1.2-26.1.0.jar"
