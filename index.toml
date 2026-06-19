@@ -139,6 +139,14 @@ file = "mods/energized-power.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers-extensions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
@@ -212,6 +220,10 @@ metafile = true
 
 [[files]]
 file = "mods/lanterns-bow.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/laseredstone.pw.toml"
 metafile = true
 
 [[files]]
