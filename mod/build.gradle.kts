@@ -100,7 +100,7 @@ dependencies {
 
 	compileOnly("org.projectlombok:lombok:${deps.lombokVersion}")
 	annotationProcessor("org.projectlombok:lombok:${deps.lombokVersion}")
-    if (providers.environmentVariable("CI").isPresent)
+    if (!providers.environmentVariable("CI").isPresent)
 	runtimeOnly("me.djtheredstoner:DevAuth-${loader.name}:${deps.devAuthVersion}")
 	include(implementation("com.moulberry:mixinconstraints:${deps.mixinConstraintsVersion}")!!)!!
 	include(implementation(annotationProcessor("com.github.bawnorton.mixinsquared:mixinsquared-${loader.name}:${deps.mixinSquaredVersion}")!!)!!)
