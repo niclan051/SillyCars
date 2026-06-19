@@ -1,0 +1,13 @@
+name = "Neo Bee Fix"
+filename = "neobeefix-26.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DzSY371i/versions/vR08eZcT/neobeefix-26.1-3.0.1.jar"
+hash-format = "sha512"
+hash = "21e4eb1e2de5e3eb8d4825bf790c88489953166cf1d5c89ec042de76dc19f1fcc2617c7a30509ac59f291ed8c09181ba9dd5f7e4eb3268f46f3af684d6ebfeab"
+
+[update]
+[update.modrinth]
+mod-id = "DzSY371i"
+version = "vR08eZcT"

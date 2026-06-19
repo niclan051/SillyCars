@@ -5,3 +5,4 @@ mod/
 build/
 LICENCE
 CHANGELOG.MD
+.idea

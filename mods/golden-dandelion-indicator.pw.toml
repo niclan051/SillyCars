@@ -1,0 +1,13 @@
+name = "Golden Dandelion Indicator"
+filename = "goldendandelionindicator-1.5.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6BdxvsQ/versions/dZT1jQK4/goldendandelionindicator-1.5.2-fabric.jar"
+hash-format = "sha512"
+hash = "a2e10d58285a071c8fe22fe9876d665c37a1420212d44cca91420febabd2d318873748cc6d0c97a30f2afd61a9afc64b42936beb53863455db1b4cba997c0e5d"
+
+[update]
+[update.modrinth]
+mod-id = "E6BdxvsQ"
+version = "dZT1jQK4"

@@ -1,0 +1,13 @@
+name = "Inline Tooltips"
+filename = "inline_tooltips-1.7.0+26.1.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVOgzXyj/versions/urZalnGT/inline_tooltips-1.7.0%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "a460e0a9937b5fbce891fe0a27f2ae9ebec06a76ed7ab9805fe6885013f959b740e80ef180f77852a9d72fb367bd5e7e09a253f2da2206a3722931b0cc3102c2"
+
+[update]
+[update.modrinth]
+mod-id = "TVOgzXyj"
+version = "urZalnGT"

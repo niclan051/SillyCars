@@ -1,0 +1,13 @@
+name = "Better Biome Blend"
+filename = "betterbiomeblend-fabric-26.1-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rs6c7WyL/versions/FwlmN3fE/betterbiomeblend-fabric-26.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "e931ad99ad4fb826a3a94dd0bf3a1518dd586e0cdaac5ad025d433d306070ddcfba541f37876c0a7093514a7c10ae067f3e3b52114594a60c816c07899ca75b5"
+
+[update]
+[update.modrinth]
+mod-id = "Rs6c7WyL"
+version = "FwlmN3fE"

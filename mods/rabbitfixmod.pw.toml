@@ -1,0 +1,13 @@
+name = "RabbitFixMod"
+filename = "rabbitfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zArQaWYm/versions/Fp7TC9kD/rabbitfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "a76fff4142ffb7a049e3fff2d48c3cd39cb506c057d4b1efca98356738861f0dfd8c4777582244c2443ba8032045a78b138a9ca6d646bbdc886381279edf0fab"
+
+[update]
+[update.modrinth]
+mod-id = "zArQaWYm"
+version = "Fp7TC9kD"

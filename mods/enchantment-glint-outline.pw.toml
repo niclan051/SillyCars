@@ -1,0 +1,13 @@
+name = "Enchantment Glint Outline"
+filename = "enchantment-glint-outline-26.1-3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qx2rzv1x/versions/9dqpmtqp/enchantment-glint-outline-26.1-3.2.jar"
+hash-format = "sha512"
+hash = "b5bd2100a4a6e5ce4839867a559d42f88bf5182624bc75c39c9cbce550e5fe68d751e6b2091c3402abde151be085e948e87bb70525ad4b05c24cec2a1b95b63b"
+
+[update]
+[update.modrinth]
+mod-id = "Qx2rzv1x"
+version = "9dqpmtqp"

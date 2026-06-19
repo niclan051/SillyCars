@@ -1,0 +1,13 @@
+name = "Anti-Smooth"
+filename = "antismooth-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zlZC5n7T/versions/5ZFJzVOa/antismooth-2.0.0.jar"
+hash-format = "sha512"
+hash = "5c2ad78aafc9bc39edcad9d348e8562a9d0e1af2833e9139154b9c1d5e37eee4cc7a26d4512467525c0efafa55e2299743f39d567b96af0c57ccc13a3cffcf25"
+
+[update]
+[update.modrinth]
+mod-id = "zlZC5n7T"
+version = "5ZFJzVOa"

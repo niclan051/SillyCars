@@ -1,0 +1,13 @@
+name = "Fletching Recipe"
+filename = "fletchingrecipe-fabric-26.1.2-26.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDfK7W8j/versions/gaLPaTqr/fletchingrecipe-fabric-26.1.2-26.1.2.2.jar"
+hash-format = "sha512"
+hash = "f17d96bedc41dbe6a861edf39379ac1b652a38eab64784f47cf3d7f7c3262a7ca210daf33940ee97c2046e71b0f0e1c7995faacb235c37e50549a6661f445e1a"
+
+[update]
+[update.modrinth]
+mod-id = "nDfK7W8j"
+version = "gaLPaTqr"

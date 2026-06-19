@@ -1,0 +1,13 @@
+name = "Ripple"
+filename = "Ripple-1.2.0-26.1x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5hOgUfig/versions/f6u2oIOg/Ripple-1.2.0-26.1x.jar"
+hash-format = "sha512"
+hash = "203deb50df7760db9f447f492da7c9c95e66c2041a267b2cebd438c4ee05d651de35d3688b7c034db7f5bbedc6bdc7979fa84948b2b07a7b6d3fd013b03b4b84"
+
+[update]
+[update.modrinth]
+mod-id = "5hOgUfig"
+version = "f6u2oIOg"

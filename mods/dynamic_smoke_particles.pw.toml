@@ -1,0 +1,13 @@
+name = "Dynamic Smoke Particles"
+filename = "dynamic_smoke_particles-fabric-26.1.2-26.1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kVd8TVMs/versions/tkM5Pgqh/dynamic_smoke_particles-fabric-26.1.2-26.1.2.0.jar"
+hash-format = "sha512"
+hash = "2b9077310ba14100b35766074e3f55b3e61096dbb38845a0a980da98108680c86527524f1419ecd030e703885bfbdbad5f05b610b3a3d8b5e8ad3d6ef2d8f0dc"
+
+[update]
+[update.modrinth]
+mod-id = "kVd8TVMs"
+version = "tkM5Pgqh"

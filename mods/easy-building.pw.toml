@@ -1,0 +1,13 @@
+name = "Easy Building"
+filename = "easy-building-fabric-26.1.2-v1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/t3wlJuW5/versions/iNDv60Sp/easy-building-fabric-26.1.2-v1.jar"
+hash-format = "sha512"
+hash = "e1940ee13e4e659f7b52b70446f7d2ac40253f28e425b3cb6d7708adddd9a9b5a35b9b2020e0648c73e60c0283f18576964097fef0862228ec55b573bc757c47"
+
+[update]
+[update.modrinth]
+mod-id = "t3wlJuW5"
+version = "iNDv60Sp"

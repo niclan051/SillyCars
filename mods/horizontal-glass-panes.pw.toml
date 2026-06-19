@@ -1,0 +1,13 @@
+name = "Horizontal Glass Panes"
+filename = "horizontalglasspanes-fabric-26.1.2-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jdwaIe52/versions/iUgPgpYG/horizontalglasspanes-fabric-26.1.2-26.1.2.jar"
+hash-format = "sha512"
+hash = "b5eb1035c0bb20f6c3e0d36d2e94445ac8d498f9ded7f3c04697a3ea8f3bcd1721d6889de735701d125d2f041c606949a0d3d062d31711898eb50114122d8a8c"
+
+[update]
+[update.modrinth]
+mod-id = "jdwaIe52"
+version = "iUgPgpYG"

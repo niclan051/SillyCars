@@ -1,53 +1,37 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/CarsPack.iml"
-
-[[files]]
-file = ".idea/compiler.xml"
-
-[[files]]
-file = ".idea/gradle.xml"
-
-[[files]]
-file = ".idea/jarRepositories.xml"
-
-[[files]]
-file = ".idea/kotlinc.xml"
-
-[[files]]
-file = ".idea/misc.xml"
-
-[[files]]
-file = ".idea/modules.xml"
-
-[[files]]
-file = ".idea/modules/SillyCars.client.iml"
-
-[[files]]
-file = ".idea/modules/SillyCars.main.iml"
-
-[[files]]
-file = ".idea/modules/SillyCars.test.iml"
-
-[[files]]
-file = ".idea/vcs.xml"
-
-[[files]]
-file = ".idea/workspace.xml"
-
-[[files]]
 file = "CHANGELOG.md"
 
 [[files]]
 file = "LICENSE"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/anti-smooth.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
@@ -56,6 +40,14 @@ metafile = true
 
 [[files]]
 file = "mods/atmospherics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/azalea-growth-control.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
 metafile = true
 
 [[files]]
@@ -68,6 +60,22 @@ metafile = true
 
 [[files]]
 file = "mods/basicstorage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-mc-screenshots.pw.toml"
 metafile = true
 
 [[files]]
@@ -91,7 +99,19 @@ file = "mods/buildcraftrefabricated.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cats-dont-care.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cave-fog-stabilizer.pw.toml"
 metafile = true
 
 [[files]]
@@ -99,7 +119,15 @@ file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/chisel-reborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
 metafile = true
 
 [[files]]
@@ -123,7 +151,31 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/coal-nuggets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/coolrain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copper-grates-bubble.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/countereds-smooth-f5.pw.toml"
 metafile = true
 
 [[files]]
@@ -131,7 +183,15 @@ file = "mods/create-alloyed.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-emf-compat-skyhook.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-fly.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/creeperconfetti+.pw.toml"
 metafile = true
 
 [[files]]
@@ -143,7 +203,23 @@ file = "mods/cut-through.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/defaulted.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/delight-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
@@ -151,7 +227,23 @@ file = "mods/directional_melons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dithering-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dyed-flames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic_smoke_particles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-building.pw.toml"
 metafile = true
 
 [[files]]
@@ -159,7 +251,19 @@ file = "mods/echo-chest.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/elytra-contrails-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-glint-outline.pw.toml"
 metafile = true
 
 [[files]]
@@ -175,6 +279,30 @@ file = "mods/energized-power.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/enhancedtooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-dithering.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eternal-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers-extensions.pw.toml"
 metafile = true
 
@@ -187,11 +315,23 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fantastic-wings.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fletching-recipe.pw.toml"
 metafile = true
 
 [[files]]
@@ -215,6 +355,18 @@ file = "mods/frozenlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fwa.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/golden-dandelion-indicator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hang-glider.pw.toml"
 metafile = true
 
@@ -227,11 +379,35 @@ file = "mods/headpat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/horizontal-glass-panes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/inline-tooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/invtweaks-emu-for-ipn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
 metafile = true
 
 [[files]]
@@ -247,11 +423,23 @@ file = "mods/jetpacks-techreborn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/keep-my-soil-tilled.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
@@ -267,6 +455,18 @@ file = "mods/lava-boats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 metafile = true
 
@@ -275,7 +475,27 @@ file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/luna-slimes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mfvapi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-cursor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mixson.pw.toml"
 metafile = true
 
 [[files]]
@@ -287,11 +507,79 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-barrel-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-bed-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-beehive-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-cartography-tables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-composter-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-feeding-trough-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-fletching-tables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-grindstone-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-kittens.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-lectern-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-loom-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-shield-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-smithing-tables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-smoker-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
 metafile = true
 
 [[files]]
@@ -303,7 +591,23 @@ file = "mods/natural-sizes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/natural-waters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/neo-bee-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/new-linked-chests.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations-emf-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
 metafile = true
 
 [[files]]
@@ -315,7 +619,55 @@ file = "mods/omnihopper.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/open-together.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/packed-packs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-interactions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/portable-hole.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
 metafile = true
 
 [[files]]
@@ -327,11 +679,35 @@ file = "mods/quickleafdecay.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rabbitfixmod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/real-arrow-tip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rearm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reborncore.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
@@ -343,11 +719,23 @@ file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/respawning-animals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rewithered.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ripple.pw.toml"
 metafile = true
 
 [[files]]
@@ -363,7 +751,27 @@ file = "mods/rustic-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sensible-stackables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shine.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-fishing-overhaul.pw.toml"
 metafile = true
 
 [[files]]
@@ -371,7 +779,27 @@ file = "mods/skeleton-ai-fix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slime-time.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/snuffles-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/soaring-phantoms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
 metafile = true
 
 [[files]]
@@ -379,7 +807,51 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/spiky-spikes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stackable-elytra-trims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stackable-trims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/strawberrylib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/superb-steeds.pw.toml"
 metafile = true
 
 [[files]]
@@ -399,6 +871,14 @@ file = "mods/the-roads-more-travelled.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tiny-takeover-x-punchy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/toil-and-trouble.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tool-trims-mod.pw.toml"
 metafile = true
 
@@ -415,6 +895,14 @@ file = "mods/trinkets-updated.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/twemoji.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/underlay.pw.toml"
 metafile = true
 
@@ -423,7 +911,35 @@ file = "mods/universal-enchants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/variants-and-ventures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vibrant-parrots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/voxyserver.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wavify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
 metafile = true
 
 [[files]]
@@ -435,5 +951,25 @@ file = "mods/wits.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/xaero-custom-waypoint-colors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-x-waystones.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaerotracker-f.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zombieimprovements.pw.toml"
 metafile = true

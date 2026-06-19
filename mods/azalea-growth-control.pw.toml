@@ -1,0 +1,13 @@
+name = "Azalea Growth Control"
+filename = "AzaleaGrowthControl-v26.1.0-mc26.1.x-Fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XJPF1kgi/versions/kiwTI7Pi/AzaleaGrowthControl-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "654e3c0ba6d8e30921ca4498c6558a0048773b2a53da10e35b39c525659e5e4ea551d080938adebfcbe0fdc8147a2ae7d1e3261c4756abd1c2481e8c944293e5"
+
+[update]
+[update.modrinth]
+mod-id = "XJPF1kgi"
+version = "kiwTI7Pi"

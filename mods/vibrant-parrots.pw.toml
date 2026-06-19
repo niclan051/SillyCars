@@ -1,0 +1,13 @@
+name = "Vibrant Parrots"
+filename = "VibrantParrots-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7w63Mwj/versions/XeKTVFJn/VibrantParrots-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "5161b77a1bdefbe345fc42395233c54c7a9b2b3c5900d8f55d6c67350af8e5b8b362f71e04102176992029c919bf6ec3a2cbaedadccf52a107feabc0a850ea8b"
+
+[update]
+[update.modrinth]
+mod-id = "v7w63Mwj"
+version = "XeKTVFJn"

@@ -1,0 +1,13 @@
+name = "Punchy! x Tiny Takeover"
+filename = "punchy_puppies-1.0.2-fabric-26.1-26.1.1-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FDqBVN2B/versions/ilrxye9J/punchy_puppies-1.0.2-fabric-26.1-26.1.1-26.1.2.jar"
+hash-format = "sha512"
+hash = "f7b39790ea8ca888ea4de483b8d1b817b3f344a45a72cd2d983fdbb1267e48cd48e8621f59191ccf740db5ec4a152a9f11a7fec1ac75121e8c835aa0bd636d2a"
+
+[update]
+[update.modrinth]
+mod-id = "FDqBVN2B"
+version = "ilrxye9J"

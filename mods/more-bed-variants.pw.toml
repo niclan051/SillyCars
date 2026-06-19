@@ -1,0 +1,13 @@
+name = "More Bed Variants"
+filename = "MoreBedVariants-2.1.5+26.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nKaiA11S/versions/vUC6PQTV/MoreBedVariants-2.1.5%2B26.1-Fabric.jar"
+hash-format = "sha512"
+hash = "bdcd1e01309ef3e4c7756fb735c9369e57f575603042a4ddba3219e557d700276fad80fde9f464c13d61873b8799df35269a263b83d6dc4ae5152c42d85a39e1"
+
+[update]
+[update.modrinth]
+mod-id = "nKaiA11S"
+version = "vUC6PQTV"

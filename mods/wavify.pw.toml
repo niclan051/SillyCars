@@ -1,0 +1,13 @@
+name = "Wavify"
+filename = "26.1.2-fab-wavify-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yTjEgNSm/versions/P28X3FjW/26.1.2-fab-wavify-1.1.0.jar"
+hash-format = "sha512"
+hash = "b88637fd360171f0c54c184f33eba5e5b3ae9e258bedb7069e42edecb842bdb2f5764465ebe275c720aedf5224249474c029c949e7e504aaba906d83bcb1b7c0"
+
+[update]
+[update.modrinth]
+mod-id = "yTjEgNSm"
+version = "P28X3FjW"

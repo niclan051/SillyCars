@@ -1,0 +1,13 @@
+name = "Twemoji"
+filename = "twemoji-26.1.2-Fabric-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aCiQlU58/versions/2Nut7rqs/twemoji-26.1.2-Fabric-1.0.5.jar"
+hash-format = "sha512"
+hash = "628ed7bf9a9cd221c04c854cdfa7fadaa9b10d8cb5670214927e52aaff99dbaf848a3ccad2825b1df2e2efff58fefb9a69141d3a0dac47a7fd1b5d1508d5a32d"
+
+[update]
+[update.modrinth]
+mod-id = "aCiQlU58"
+version = "2Nut7rqs"

@@ -1,0 +1,13 @@
+name = "xaerotracker F"
+filename = "xaerotracker-fabric-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cMfMbU0k/versions/zRp3ivuU/xaerotracker-fabric-2.0.0.jar"
+hash-format = "sha512"
+hash = "62ed58eadab1cb249aa1d025dafd26026a73dbcdc54f395bb666b0c39f60c17cdbc957290d389dbe7d31dca5e99613e275d83790533bd06ff218d1703c7ddb2b"
+
+[update]
+[update.modrinth]
+mod-id = "cMfMbU0k"
+version = "zRp3ivuU"

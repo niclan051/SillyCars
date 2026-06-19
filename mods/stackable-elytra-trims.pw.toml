@@ -1,0 +1,13 @@
+name = "Stackable Elytra Trims"
+filename = "stackable_elytra_trims-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKJ60oEI/versions/Kt1v9AV6/stackable_elytra_trims-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "9247c14d616d7096e83221a03c884847d28b8616fd45a5fa8f55e2f19cea55bdb7a2d0f693947a4b79860ae2db00cb199769eb4cbb6cf15c6315cce208794430"
+
+[update]
+[update.modrinth]
+mod-id = "NKJ60oEI"
+version = "Kt1v9AV6"

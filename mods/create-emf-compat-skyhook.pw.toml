@@ -1,0 +1,13 @@
+name = "Create: EMF Compat"
+filename = "create-fly-emf-compat-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/Py26oBVz/create-fly-emf-compat-1.0.jar"
+hash-format = "sha512"
+hash = "60b9ee02b134ba3c52c1ee120f0fee703b4e518a22349c9e4a6ca9bad411031bd8894494916bab5f89df6230104c42f789edc8121d4e0ea90589e77e8441e04c"
+
+[update]
+[update.modrinth]
+mod-id = "J9McOdzy"
+version = "Py26oBVz"

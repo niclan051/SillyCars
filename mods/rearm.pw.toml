@@ -1,0 +1,13 @@
+name = "ReArm: Combat Overhaul"
+filename = "rearm-2.5.1+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NHzN2FGz/versions/9g2FDA0e/rearm-2.5.1%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "08a3ed3ebef231434102a0487ec62c152f714195ad333b261d60245d80cfed943bd813b019a9729b0e477babf6e8db2ae86c69afe02d2a8d58f88b32c57b3a6f"
+
+[update]
+[update.modrinth]
+mod-id = "NHzN2FGz"
+version = "9g2FDA0e"
