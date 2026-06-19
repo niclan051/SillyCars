@@ -971,10 +971,6 @@ file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/xaerotracker-f.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 metafile = true
 
