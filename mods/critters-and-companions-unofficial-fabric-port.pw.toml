@@ -1,0 +1,13 @@
+name = "Critters and Companions (Unofficial Fabric Port)"
+filename = "crittersandcompanions-26.1.x-0.1.7-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83b02d97dca2496ff7917c6f1f44fc119de1dc4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8179051
+project-id = 1547290

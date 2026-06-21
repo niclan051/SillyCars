@@ -1,0 +1,13 @@
+name = "Cluttered (Unofficial Fabric Port)"
+filename = "cluttered-3.0.3-26.1.x-0.2.2-fabric-unofficial.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d5b36560880394a898f59ba5e503224634c7c63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8177858
+project-id = 1545340

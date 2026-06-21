@@ -99,6 +99,10 @@ file = "mods/buildcraftrefabricated.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 metafile = true
 
@@ -151,6 +155,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cluttered-unofficial-fabric-port.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/coal-nuggets.pw.toml"
 metafile = true
 
@@ -179,6 +187,10 @@ file = "mods/copper-grates-bubble.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/copycats-createfly-port.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/countereds-smooth-f5.pw.toml"
 metafile = true
 
@@ -196,6 +208,10 @@ metafile = true
 
 [[files]]
 file = "mods/creeperconfetti+.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions-unofficial-fabric-port.pw.toml"
 metafile = true
 
 [[files]]
@@ -364,6 +380,10 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
@@ -947,10 +967,6 @@ file = "mods/waystones.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/wilder-wild.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/wits.pw.toml"
 metafile = true
 
@@ -972,6 +988,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
 metafile = true
 
 [[files]]

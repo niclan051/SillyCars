@@ -1,13 +1,13 @@
 name = "Wavify"
-filename = "26.1.2-fab-wavify-1.1.0.jar"
+filename = "26.1.2-fab-wavify-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yTjEgNSm/versions/P28X3FjW/26.1.2-fab-wavify-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/yTjEgNSm/versions/AGGFHXwm/26.1.2-fab-wavify-1.1.1.jar"
 hash-format = "sha512"
-hash = "b88637fd360171f0c54c184f33eba5e5b3ae9e258bedb7069e42edecb842bdb2f5764465ebe275c720aedf5224249474c029c949e7e504aaba906d83bcb1b7c0"
+hash = "4760e8191d41517719239f1747cae82f505d519954fa07593d1ee5a00d54b8e75236324b378cdfe232a53769186f27a8fdcbbf52689a1e9ce0f5ab59562a9b5d"
 
 [update]
 [update.modrinth]
 mod-id = "yTjEgNSm"
-version = "P28X3FjW"
+version = "AGGFHXwm"

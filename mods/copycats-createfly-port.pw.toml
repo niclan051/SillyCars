@@ -1,0 +1,13 @@
+name = "Copycats+ CreateFly Port"
+filename = "copycats-createfly-3.0.7-createfly+mc.26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf2c4c3e087ddcc04bf48a4893bc1590a8caccbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8220007
+project-id = 1569572

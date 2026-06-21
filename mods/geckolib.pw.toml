@@ -1,0 +1,13 @@
+name = "GeckoLib"
+filename = "geckolib-fabric-26.1.2-5.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba71c714ade77cf8eff49f40228a6678346b2934"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7913636
+project-id = 388172
