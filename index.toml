@@ -7,6 +7,21 @@ file = "CHANGELOG.md"
 file = "LICENSE"
 
 [[files]]
+file = "config/packed_packs/config.json"
+
+[[files]]
+file = "config/packed_packs/config.meta.json"
+
+[[files]]
+file = "config/packed_packs/preferences.properties"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Default.profile.json"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Fresh Animations.profile.json"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
@@ -168,10 +183,6 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/combat-nouveau.pw.toml"
 metafile = true
 
 [[files]]
@@ -977,6 +988,48 @@ metafile = true
 [[files]]
 file = "mods/zombieimprovements.pw.toml"
 metafile = true
+
+[[files]]
+file = "resourcepacks/.index/fa-player-extension+just-expressions.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/fa-player-extension.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/fresh-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/fresh-illager-mod-compats.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/just-expressions.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/.index/more-zomie-variations-+-fresh-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/2.8.5 FA Illager Mod Compats.zip"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1.1.zip"
+
+[[files]]
+file = "resourcepacks/FA+Player_Expressions-v1.2.zip"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.5.zip"
+
+[[files]]
+file = "resourcepacks/JustExpressions_v1.1.zip"
+
+[[files]]
+file = "resourcepacks/MZV+FA-1.20.1-build1.0.0.zip"
 
 [[files]]
 file = "unsup/instance.cfg"
