@@ -1,0 +1,19 @@
+{
+  "locked": false,
+  "name": "Default",
+  "overrides": {},
+  "packIds": [
+    "naturalwaters:opaque_water",
+    "lambdabettergrass:default",
+    "continuity:glass_pane_culling_fix",
+    "cursors_extended:default_auto",
+    "cursors_extended:default",
+    "continuity:default",
+    "subtle_effects:biome_color_water_particles",
+    "elytratrails:arrowtrails",
+    "elytratrails:allaytrails",
+    "slime_time:colourful_slimes",
+    "atmospherics:atmospherics_pack",
+    "vanilla"
+  ]
+}

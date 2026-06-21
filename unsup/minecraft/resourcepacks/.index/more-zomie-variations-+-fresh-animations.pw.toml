@@ -1,0 +1,21 @@
+filename = 'MZV+FA-1.20.1-build1.0.0.zip'
+name = 'More Zombie Variations + Fresh Animations'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '49de831861983a1936ad6ac038434bdfbb39997d8c25e473cb8bc27cd8da36810f91b501218dacc89497936ad86f26e791140d2da1f2b2a1c375fa13ab8c5e8c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fnWiZtPh/versions/tyjDCvOL/MZV%2BFA-1.20.1-build1.0.0.zip'
+
+[update.modrinth]
+mod-id = 'fnWiZtPh'
+version = 'tyjDCvOL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '50dA9Sha'
+type = 'REQUIRED'

@@ -1,0 +1,24 @@
+{
+  "locked": false,
+  "name": "Fresh Animations",
+  "overrides": {},
+  "packIds": [
+    "file/FA+Player_Expressions-v1.2.zip",
+    "file/FA+Player-v1.1.zip",
+    "file/2.8.5 FA Illager Mod Compats.zip",
+    "file/FreshAnimations_v1.10.5.zip",
+    "file/JustExpressions_v1.1.zip",
+    "naturalwaters:opaque_water",
+    "lambdabettergrass:default",
+    "continuity:glass_pane_culling_fix",
+    "cursors_extended:default_auto",
+    "cursors_extended:default",
+    "continuity:default",
+    "subtle_effects:biome_color_water_particles",
+    "elytratrails:arrowtrails",
+    "elytratrails:allaytrails",
+    "slime_time:colourful_slimes",
+    "atmospherics:atmospherics_pack",
+    "vanilla"
+  ]
+}
