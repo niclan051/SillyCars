@@ -1,6 +1,6 @@
 name = "MapSyncer-for-XaeroWorldmap"
 filename = "mapsyncer-1.0.3-fabric-26.1-bugfix.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AW5A8Q2T/versions/dK4MzKlZ/mapsyncer-1.0.3-fabric-26.1-bugfix.jar"

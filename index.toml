@@ -573,6 +573,10 @@ file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/luna-slimes.pw.toml"
 metafile = true
 
