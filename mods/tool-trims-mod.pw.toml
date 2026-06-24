@@ -1,13 +1,13 @@
 name = "Tool Trims Mod"
-filename = "tooltrims-2.0.2+tt3.0.x+mc26.1.2.jar"
+filename = "tooltrims-2.0.3+tt3.0.x+mc26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GqdixiwC/versions/Qxxx6C4f/tooltrims-2.0.2%2Btt3.0.x%2Bmc26.1.2.jar"
+url = "https://cdn.modrinth.com/data/GqdixiwC/versions/Knh3PCxS/tooltrims-2.0.3%2Btt3.0.x%2Bmc26.1.2.jar"
 hash-format = "sha512"
-hash = "3212dfc89f833efa5421ce818c35f18eec48976f624afd76cf19a7f1e1d750fb0f0d17fea40d57ec9cee015a2418d196ed16a6fb90af665c7f879312686dd18f"
+hash = "68ec2d629349f4018a35fbe2a0a38fb158311b882c922ddc5f81370d70387d90c4bbd6943b9ee71e8b8044109b838e3d15d9e042b3e65a7fcb39512a7509e201"
 
 [update]
 [update.modrinth]
 mod-id = "GqdixiwC"
-version = "Qxxx6C4f"
+version = "Knh3PCxS"

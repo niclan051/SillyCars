@@ -1,0 +1,13 @@
+name = "Better paths"
+filename = "better-paths-1.0.0-26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7553a3d97327682920c137a9c10b538f089fbb9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7805738
+project-id = 1038286

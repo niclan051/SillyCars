@@ -1,0 +1,13 @@
+name = "Wet sand"
+filename = "wet-sand-beta-0.0.2-26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09e66a79753f72ab3ce45ce26871bfbd765db1a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7805734
+project-id = 1277598

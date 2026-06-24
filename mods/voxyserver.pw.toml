@@ -1,0 +1,13 @@
+name = "Voxy Server"
+filename = "VoxyServer-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fNtGd1cx/versions/Y4Ajdttu/VoxyServer-1.2.1.jar"
+hash-format = "sha512"
+hash = "944ffc09f0b185a9ce2f3ceb863c5f1112b1ce89167c29a4e3a25db24843f59855610737324abdd124d3fb22ea03edc36370a2e5f38460d4e48f62f3769ca250"
+
+[update]
+[update.modrinth]
+mod-id = "fNtGd1cx"
+version = "Y4Ajdttu"

@@ -7,6 +7,9 @@ file = "CHANGELOG.md"
 file = "LICENSE"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+
+[[files]]
 file = "config/packed_packs/config.json"
 
 [[files]]
@@ -23,6 +26,10 @@ file = "config/packed_packs/profiles/resourcepacks/Fresh Animations.profile.json
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/additional-placements-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -82,15 +89,15 @@ file = "mods/better-biome-blend.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/better-climbing.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/better-mc-screenshots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-paths.pw.toml"
 metafile = true
 
 [[files]]
@@ -106,7 +113,15 @@ file = "mods/blaha-replushed.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/block-dithering.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bloomcraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -186,6 +201,10 @@ file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/colossal-chests.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/combat-nouveau.pw.toml"
 metafile = true
 
@@ -215,6 +234,10 @@ metafile = true
 
 [[files]]
 file = "mods/countereds-smooth-f5.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
 metafile = true
 
 [[files]]
@@ -250,6 +273,10 @@ file = "mods/cut-through.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/defaulted.pw.toml"
 metafile = true
 
@@ -271,6 +298,10 @@ metafile = true
 
 [[files]]
 file = "mods/directional_melons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/discord-mc-chat.pw.toml"
 metafile = true
 
 [[files]]
@@ -306,10 +337,6 @@ file = "mods/elytra-trims.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-vertical-slabs.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-glint-outline.pw.toml"
 metafile = true
 
@@ -335,6 +362,10 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
@@ -386,6 +417,10 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/friendly-rabbits.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/frozenlib.pw.toml"
 metafile = true
 
@@ -410,6 +445,10 @@ file = "mods/golden-dandelion-indicator.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers-(fabricquilt).pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hang-glider.pw.toml"
 metafile = true
 
@@ -430,11 +469,19 @@ file = "mods/horizontal-glass-panes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/humanoid-villagers.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/illager-invasion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
@@ -455,6 +502,10 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/item-dithering.pw.toml"
 metafile = true
 
 [[files]]
@@ -502,7 +553,7 @@ file = "mods/lava-boats.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/leave-my-bars-alone.pw.toml"
+file = "mods/leaves-us-in-peace.pw.toml"
 metafile = true
 
 [[files]]
@@ -526,7 +577,19 @@ file = "mods/luna-slimes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lunas-stackable-flowers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/map-direction.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/map-distance-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
 metafile = true
 
 [[files]]
@@ -570,10 +633,6 @@ file = "mods/mossylib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/nameless-trinkets.pw.toml"
 metafile = true
 
@@ -598,11 +657,19 @@ file = "mods/new-linked-chests.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/new-sea-life.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations-emf-compat.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
 metafile = true
 
 [[files]]
@@ -623,6 +690,10 @@ metafile = true
 
 [[files]]
 file = "mods/packed-packs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-dithering.pw.toml"
 metafile = true
 
 [[files]]
@@ -654,11 +725,15 @@ file = "mods/polytone.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/portable-hole.pw.toml"
+file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
+file = "mods/prickle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/punchy.pw.toml"
 metafile = true
 
 [[files]]
@@ -667,10 +742,6 @@ metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/quickleafdecay.pw.toml"
 metafile = true
 
 [[files]]
@@ -750,6 +821,10 @@ file = "mods/sensible-stackables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sheep-variety.pw.toml"
 metafile = true
 
@@ -795,6 +870,10 @@ metafile = true
 
 [[files]]
 file = "mods/slime-time.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/smooth-join.pw.toml"
 metafile = true
 
 [[files]]
@@ -866,10 +945,6 @@ file = "mods/superb-steeds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sword-blocking-mechanics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tech-extensions.pw.toml"
 metafile = true
 
@@ -891,6 +966,10 @@ metafile = true
 
 [[files]]
 file = "mods/tool-trims-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trample-no-more.pw.toml"
 metafile = true
 
 [[files]]
@@ -946,11 +1025,23 @@ file = "mods/voxy.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/voxyserver.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/wavify.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wet-sand.pw.toml"
 metafile = true
 
 [[files]]

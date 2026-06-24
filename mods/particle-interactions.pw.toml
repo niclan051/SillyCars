@@ -1,13 +1,13 @@
 name = "Particle Interactions"
-filename = "eg_particle_interactions-0.10.0-alpha.1+26.1.2-fabric.jar"
+filename = "eg_particle_interactions-0.10.0-alpha.2+26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xFCYuAs8/versions/Vu5Bl3eb/eg_particle_interactions-0.10.0-alpha.1%2B26.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/xFCYuAs8/versions/fqXje2lK/eg_particle_interactions-0.10.0-alpha.2%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "5ba5b8de5cb19a892c42c927c6b9ca957a9e75ca67e854bcfb17ded012abc9c784b658be583edd154ce47e8b26cd54b1d38a0a727fa691cb021d985b317d6743"
+hash = "ec77facbd48c5d778b185f15b8092a46d0ec84ffcf2a13620757ce3c9f9a8b3ba138fb408cc8b4a335929dd750a46474634887d7626bc5559b9354321218dc57"
 
 [update]
 [update.modrinth]
 mod-id = "xFCYuAs8"
-version = "Vu5Bl3eb"
+version = "fqXje2lK"

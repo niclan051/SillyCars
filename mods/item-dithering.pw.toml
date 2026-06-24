@@ -1,0 +1,13 @@
+name = "Item Dithering"
+filename = "ItemDithering-1.1.0+26.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f2xMCldH/versions/45HbckTW/ItemDithering-1.1.0%2B26.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "c36f756b45e2f6add874ad5fd6cab9efb4c1ef9b6320c478aedae89d0d64b56f0379a3619e0af0e4466ea20f705905eaa6355914521d9ae296e46d87e119c6d2"
+
+[update]
+[update.modrinth]
+mod-id = "f2xMCldH"
+version = "45HbckTW"

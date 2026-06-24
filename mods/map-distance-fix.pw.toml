@@ -1,0 +1,13 @@
+name = "Map Distance Fix"
+filename = "mapdistancefix-fabric-1.1.1+mc26.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/51BNNAng/versions/iRwEWiYI/mapdistancefix-fabric-1.1.1%2Bmc26.jar"
+hash-format = "sha512"
+hash = "c34f2db766db8df3b0487af0eac0675064e39776edb0f09a00afa911e686fdd5741fb85e176c5f0d45d2e9c9c58cf9f156876722f370f1fcd3a3c353f80f5e31"
+
+[update]
+[update.modrinth]
+mod-id = "51BNNAng"
+version = "iRwEWiYI"

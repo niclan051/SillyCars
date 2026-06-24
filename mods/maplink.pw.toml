@@ -1,0 +1,8 @@
+name = "MapLink"
+filename = "maplink-fabric-4.4.0-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/NotRyken/MapLink/releases/download/v4.4.0%2Bmc26.1.2/maplink-fabric-4.4.0-26.1.2.jar"
+hash-format = "sha256"
+hash = "d2de06382e3dd3bcd177bcc36d975bf11232c4b7824cc601caf10fc52a1174f8"

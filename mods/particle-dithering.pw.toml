@@ -1,0 +1,13 @@
+name = "Particle Dithering"
+filename = "ParticleDithering-1.0.0+26.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWlmZ2UP/versions/YiBOQEZf/ParticleDithering-1.0.0%2B26.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "2294199e8a6e2ab70b717937cfb77fe392720a1c052f15b5c9c6eb11b5e0fba198ad74be330aee7d60c055431bc39071d1c1b9366277f41d5afc3e9d45295ac8"
+
+[update]
+[update.modrinth]
+mod-id = "pWlmZ2UP"
+version = "YiBOQEZf"

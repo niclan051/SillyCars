@@ -1,0 +1,13 @@
+name = "Luna's Stackable Flowers"
+filename = "lunas-stackable-flowers-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bf4e28774000b59334315232424c4e6d38bd5a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7818486
+project-id = 1411974

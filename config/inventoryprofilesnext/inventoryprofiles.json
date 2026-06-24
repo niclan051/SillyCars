@@ -1,0 +1,99 @@
+{
+    "Features": {
+        "enable_lock_slots": {
+            "value": false
+        },
+        "highlight_foused_items": {
+            "value": false
+        },
+        "enable_profiles": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "item_scrolling": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "first_run": false,
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_lock_slots": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "restock_hotbar": {
+            "value": true
+        },
+        "sort_order": "ACCUMULATED_COUNT_DESCENDING",
+        "highlight_foused_items": {
+            "value": false
+        }
+    },
+    "GuiSettings": {
+        "show_fast_rename_checkbox": {
+            "value": false
+        },
+        "show_continuous_crafting_checkbox": {
+            "value": false
+        },
+        "continuous_crafting_saved_value": false
+    },
+    "SortSettings": {
+        "sort_order": "ACCUMULATED_COUNT_DESCENDING",
+        "restock_hotbar": {
+            "value": true
+        },
+        "treat_non_stackable_as_full_stacks": true
+    },
+    "LockedSlotsSettings": {
+        "enable_lock_slots": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "auto_refill_enable_per_slot_config": {
+            "value": false
+        },
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        },
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        },
+        "visual_durability_notification": {
+            "value": false
+        },
+        "audio_durability_notification": {
+            "value": false
+        },
+        "visual_replace_success_notification": {
+            "value": false
+        },
+        "audio_replace_success_notification": {
+            "value": false
+        },
+        "visual_replace_failed_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        }
+    },
+    "EditProfiles": {
+        "enable_profiles": {
+            "value": false
+        }
+    }
+}

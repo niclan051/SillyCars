@@ -1,13 +1,13 @@
 name = "MossyLib"
-filename = "MossyLib-1.4.0+26.1+fabric.jar"
+filename = "MossyLib-1.5.0+26.1+fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ffLDUGbm/versions/VeHy34RO/MossyLib-1.4.0%2B26.1%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/ffLDUGbm/versions/O2Pxh9e1/MossyLib-1.5.0%2B26.1%2Bfabric.jar"
 hash-format = "sha512"
-hash = "b26bb62ad1e454b30cb50a8045539c8812328f00dcd2e5ac1ac5a71f90254a5b0c5cb12f998453eb7fba3eeed25ee56f6e13c3c122388ff3e5893bb0b3263204"
+hash = "a8f129390237d13aa82af72c4fb32a79227d649a439f53981b7c56e14061a1df1250d7b75d7dad67658a03b1f5274b65fa0494f0689354b677c59476aa9eaddb"
 
 [update]
 [update.modrinth]
 mod-id = "ffLDUGbm"
-version = "VeHy34RO"
+version = "O2Pxh9e1"

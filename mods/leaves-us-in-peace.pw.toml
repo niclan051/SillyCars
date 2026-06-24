@@ -1,0 +1,13 @@
+name = "Leaves Us In Peace"
+filename = "leaves_us_in_peace-1.12.0+MC26.1-26.1.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/OZtHERvr/leaves_us_in_peace-1.12.0%2BMC26.1-26.1.x.jar"
+hash-format = "sha512"
+hash = "f6b2564e9795ca5a747c93870dfafa70f31584b945335285dfeee8d8732401e0d7a79bc8fa903be05d6c306ef8d48e004655e6ee67700be5738721e9730cfa34"
+
+[update]
+[update.modrinth]
+mod-id = "IIpWIe1o"
+version = "OZtHERvr"

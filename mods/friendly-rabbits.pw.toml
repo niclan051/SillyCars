@@ -1,0 +1,13 @@
+name = "Friendly rabbits"
+filename = "friendly-rabbits-0.0.1-26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcfb9b67593601c0f7096735a041cda29b8ba019"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7805780
+project-id = 1388453
