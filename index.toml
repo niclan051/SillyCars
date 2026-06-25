@@ -433,7 +433,15 @@ file = "mods/frozenlib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fuji.pw.toml"
+file = "mods/ftb-essentials.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -590,10 +598,6 @@ metafile = true
 
 [[files]]
 file = "mods/lunas-stackable-flowers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/map-direction.pw.toml"
 metafile = true
 
 [[files]]
@@ -1037,10 +1041,6 @@ file = "mods/voxy.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/voxyserver.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/wakes.pw.toml"
 metafile = true
 
@@ -1050,10 +1050,6 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/wet-sand.pw.toml"
 metafile = true
 
 [[files]]
